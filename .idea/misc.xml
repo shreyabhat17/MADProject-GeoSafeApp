@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AA/Safe_App/app/src/main/res/layout/activity_about.xml" value="0.24635416666666668" />
+        <entry key="..\:/AA/two - Copy/app/src/main/res/layout/activity_database_view.xml" value="0.1" />
+        <entry key="..\:/AA/two - Copy/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/AA/two - Copy/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/AA/two - Copy/app/src/main/res/layout/activity_my_location.xml" value="0.1" />
+        <entry key="..\:/Safe_App/app/src/main/res/layout/activity_about.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/drawable/edittext_border.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_database_view.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_home.xml" value="0.176" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_main.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_my_location.xml" value="0.176" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_my_profile.xml" value="0.176" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/activity_verification.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/layout/layout.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/two - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/layout/activity_database_view.xml" value="0.1" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/layout/activity_login.xml" value="0.16530797101449277" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/layout/activity_main.xml" value="0.16530797101449277" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/layout/activity_my_location.xml" value="0.25" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/layout/activity_my_profile.xml" value="0.1" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/layout/activity_signup.xml" value="0.16530797101449277" />
+        <entry key="..\:/javaminiproject/two/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/two - Copy/app/src/main/res/drawable/edittext_border.xml" value="0.10092592592592593" />
+        <entry key="..\:/two - Copy/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/two - Copy/app/src/main/res/layout/activity_database_view.xml" value="0.18704710144927536" />
+        <entry key="..\:/two - Copy/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/two - Copy/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/two - Copy/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/two - Copy/app/src/main/res/layout/activity_my_location.xml" value="0.25" />
+        <entry key="..\:/two - Copy/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/two - Copy/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/two - Copy/app/src/main/res/menu/menus.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
